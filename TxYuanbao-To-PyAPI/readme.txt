@@ -1,0 +1,1 @@
+此文件夹内是我自己写的腾讯元宝转python flask接口项目，具体见github https://github.com/TW-SkyHope/TxYuanbao-To-PyAPI
