@@ -896,7 +896,7 @@ try {
                         <p>恭喜您，项目初始化配置已完成。我们已经为您创建了所有必要的数据库表结构，包括管理员账号(用户名:admin, 密码:admin123)和一些默认数据。您现在可以开始使用系统了。如有任何问题，请查阅我们的文档或联系技术支持。</p>
                         
                         <div class="btn-group" style="justify-content: center;">
-                            <a href="#" class="btn">
+                            <a href="/" class="btn">
                                 <i class="fas fa-home"></i> 进入控制面板
                             </a>
                             <a href="#" class="btn btn-outline">
