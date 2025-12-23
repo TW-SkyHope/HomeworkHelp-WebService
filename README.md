@@ -12,12 +12,7 @@ SkyHope智能解题系统是一个基于Web的智能解题平台，提供高效�
 - Python 3.0+ (可选，也可直接exe运行，用于运行TxYuanbao-To-PyAPI)
 
 ## 安装步骤
-1. 确保配置好上述环境，HTTP服务器指定项目根目录，设定伪静态如下
-```
-    location / {
-        rewrite ^/(.*)$ /index.php last;
-    }
-```
+1. 确保配置好上述环境，HTTP服务器指定项目根目录
 2. 运行TxYuanbao-To-PyAPI程序，具体方法见 [TxYuanbao-To-PyAPI](https://github.com/TW-SkyHope/TxYuanbao-To-PyAPI)
 3. 确保TxYuanbao-To-PyAPI正常运行(默认8000端口，若有需要请更改tack.php中127.0.0.1:8000与aiapi.py最下方端口)
 4. 访问 `install.php` 文件，按照安装向导完成配置
